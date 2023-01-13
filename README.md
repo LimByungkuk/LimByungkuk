@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=Always%20be%20happy&fontSize=30)
 
 <p align="center">
-🚀 2023 👩‍🚀
+🚀 202ㅇㄴㄹㄴㄹㄴㄹ56165156 👩‍🚀
 </p>
 
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LimByungkuk&&show_icons=true&theme=radical)
@@ -16,16 +16,15 @@
 </a>
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
-
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"
-     
+   
      
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dla5324)](https://solved.ac/dla5324)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dla5324)](https://solved.ac/dla5324)
 
+<img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimByungkuk&layout=compact)](https://github.com/LimByungkuk/github-readme-stats)
 
 
