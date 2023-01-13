@@ -1,23 +1,12 @@
-### Hi there 👋
-
-
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=Always%20be%20happy&fontSize=30)
-
-<p align="center"> 
-🚀 202ㅇㄴㄹㄴㄹㄴㄹ56165156 👩‍🚀
-</p>
+### Hi, there 👋  
+👊 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLimByungkuk&count_bg=%23002DF9&title_bg=%23F207FB&icon=&icon_color=%23F30000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![followers](https://img.shields.io/github/followers/LimByungkuk?style=social)
 
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LimByungkuk&&show_icons=true&theme=radical)
 
-
-<a href="https://www.instagram.com/bbangkku_/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/bbangkku_/"
-        style="height : 23px; margin-left : 30px; margin-right : 30px;"/>
-</a>
-
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> lbk5770@gmail.com
    
      
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dla5324)](https://solved.ac/dla5324)
@@ -28,10 +17,12 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimByungkuk&layout=compact)](https://github.com/LimByungkuk/github-readme-stats)
 
+<a href="https://www.instagram.com/bbangkku_/">
+    <img src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/bbangkku_/"
+        style="height : 23px; margin-left : 30px; margin-right : 30px;"/>
+</a>
 
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLimByungkuk&count_bg=%23002DF9&title_bg=%23F207FB&icon=&icon_color=%23F30000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **LimByungkuk/LimByungkuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
