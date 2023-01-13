@@ -5,11 +5,11 @@
 
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LimByungkuk&&show_icons=true&theme=radical)
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dla5324)](https://solved.ac/dla5324)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dla5324)](https://solved.ac/dla5324)
+
+</p>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
   
@@ -21,8 +21,6 @@
 <a href="https://www.instagram.com/bbangkku_/">
     <img src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/bbangkku_/"
         style="height : 23px; margin-left : 30px; margin-right : 30px;"/>
-<img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
-</p>
 
 
 <!--
