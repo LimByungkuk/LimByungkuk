@@ -7,7 +7,7 @@
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> lbk5770@gmail.com
-   
+<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lbk5770@gmail.com)(mailto:lbk5770@gmail.com)   
      
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dla5324)](https://solved.ac/dla5324)
 [![Solved.ac
