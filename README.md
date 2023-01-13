@@ -4,6 +4,8 @@
 
 <a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/[2. 등록하려는 이름]-[3. #을 뺀 나머지 색깔코드]?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLimByungkuk&count_bg=%23002DF9&title_bg=%23F207FB&icon=&icon_color=%23F30000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **LimByungkuk/LimByungkuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
