@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=Always%20be%20happy&fontSize=30)
 
 
-![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LimByungkuk&&show_icons=true&theme=dark)
+![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LimByungkuk&&show_icons=true&theme=radical)
 
 
 <a href="https://www.instagram.com/bbangkku_/">
@@ -15,6 +15,8 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dla5324)](https://solved.ac/dla5324)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dla5324)](https://solved.ac/dla5324)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimByungkuk&layout=compact)](https://github.com/LimByungkuk/github-readme-stats)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLimByungkuk&count_bg=%23002DF9&title_bg=%23F207FB&icon=&icon_color=%23F30000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
